@@ -1,2 +1,2 @@
 print("you are funny dude")
-prtin("haha")
+prtin("haha conflict")
